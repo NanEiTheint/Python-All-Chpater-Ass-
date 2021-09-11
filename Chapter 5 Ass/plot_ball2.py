@@ -22,6 +22,7 @@ result = f(t)
 
 print(result)
 plt.plot(t,result)
-
+plt.xlabel('time (s)')
+plt.ylabel('height (m)')
 
 
